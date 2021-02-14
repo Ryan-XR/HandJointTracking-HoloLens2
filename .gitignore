@@ -40,6 +40,13 @@ ExportedObj/
 # Unity3D generated file on crash reports
 sysinfo.txt
 
+# MRTK Files
+Assets/MRTK*
+Assets/MixedRealityToolkit.Generated/*
+Assets/MixedRealityToolkit.Generated*
+Assets/Plugins*
+Assets/TextMesh Pro*
+
 # Builds
 *.apk
 *.unitypackage
